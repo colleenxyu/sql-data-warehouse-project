@@ -1,2 +1,1 @@
-# sql-data-warehouse-project
-Data warehouse project for UDEMY
+# Final UDEMY project for SQL Class 
